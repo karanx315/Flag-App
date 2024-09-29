@@ -12,6 +12,7 @@ import android.widget.Switch;
 
 public class MainActivity extends AppCompatActivity {
 
+
     ImageView imgView;
     Switch sw;
     @Override
